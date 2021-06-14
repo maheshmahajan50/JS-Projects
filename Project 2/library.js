@@ -49,7 +49,7 @@ Display.prototype.show = function (type, msg) {
                             </div>`;
     setTimeout(function () {
         msgElement.innerHTML = '';
-    }, 3000);
+    }, 4000);
 }
 
 // Add eventListner for submit form
