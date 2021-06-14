@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Brit saves twin sister by punching crocodile in the face",
+            "description": "Melissa Laurie was unconscious in a Mexico lagoon, when her sister Georgia fought off the reptile.",
+            "url": "http://www.bbc.co.uk/news/newsbeat-57399864",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17EDE/production/_118841089_georgiamelissa976.jpg",
+            "publishedAt": "2021-06-08T12:07:24.082065Z",
+            "content": "image copyrightHana Laurie\r\nimage captionGeorgia (right) saved Melissa from the jaws of a crocodile\r\nWhen a crocodile grabbed her sister, there was only one option for Georgia Laurie - she punched it… [+2941 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Amazon-dwellers lived sustainably for 5,000 years",
+            "description": "Indigenous people lived sustainably in the tropical Amazon rainforest for more than 5,000 years, a study shows.",
+            "url": "http://www.bbc.co.uk/news/science-environment-57388939",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1CB9/production/_118835370_press20release20photo201.jpg",
+            "publishedAt": "2021-06-08T10:52:31.1572767Z",
+            "content": "By Victoria GillScience correspondent, BBC News\r\nimage copyrightAlvaro del Campo\r\nimage captionThe researchers studied an area of forest in a remote corner of north-eastern Peru\r\nA study that dug int… [+3918 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kate Winslet: Huge increase in terrific roles for women in my age group",
+            "description": "The star also says she was adamant about not digitally altering her body for a recent sex scene.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-57397502",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8519/production/_118737043_mare_ep107_030920_mks_0185_v2--1.jpg",
+            "publishedAt": "2021-06-08T10:52:28.5641721Z",
+            "content": "image copyrightWarnerMedia\r\nimage captionKate Winslet plays Pennsylvania detective Mare Sheehan in Mare of Easttown\r\nKate Winslet, the star of hit US TV show Mare of Easttown, says Hollywood has turn… [+3946 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "The 'unknown' Covid deaths in rural India",
+            "description": "Experts say the number of deaths is higher than what official data says in rural parts of India.",
+            "url": "http://www.bbc.co.uk/news/world-asia-india-57383131",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C6AE/production/_118826805_p09krsv8.jpg",
+            "publishedAt": "2021-06-08T10:52:25.4711912Z",
+            "content": "The second wave of Covid-19 ravaged India as hospitals and then crematoriums ran out of space. \r\nFamilies struggled to find beds, oxygen or even medicines to save their loved ones. While cities were … [+472 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Sarah Everard: Wayne Couzens admits rape and kidnap",
+            "description": "The marketing executive vanished as she walked home in Clapham, south London, on 3 March.",
+            "url": "http://www.bbc.co.uk/news/uk-england-57399170",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7F9A/production/_117466623_b215a3e4-77f1-470a-b459-512b824e1a1d.jpg",
+            "publishedAt": "2021-06-08T10:52:19.4258205Z",
+            "content": "image captionSarah Everard had been walking to her home in Brixton when she disappeared\r\nA Met Police officer has admitted kidnapping and raping Sarah Everard.\r\nThe 33-year-old vanished as she walked… [+1360 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Major newspaper and government websites down",
+            "description": "Early reports blame problems with a cloud computing provider",
+            "url": "http://www.bbc.co.uk/news/technology-57399628",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E83/production/_115651730_breaking-promo-976.png",
+            "publishedAt": "2021-06-08T10:37:22.1131658Z",
+            "content": "A number of leading media websites are currently not working, including the Guardian, Financial Times, Independent and the New York Times.\r\nThe UK government website - gov.uk - is also down.\r\nAffecte… [+214 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "An0m: Hundreds arrested in massive global crime sting",
+            "description": "Authorities had infiltrated the An0m app used by criminals and monitored their messages for years.",
+            "url": "http://www.bbc.co.uk/news/world-57394831",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11731/production/_118837417_reecekershaw.png",
+            "publishedAt": "2021-06-08T04:22:24.7439549Z",
+            "content": "image captionAustralian Prime Minister Scott Morrison (left) revealed the nation's largest-ever police operation\r\nLaw enforcement agencies say they've arrested hundreds of criminals across the world … [+1999 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Muslim family killed in 'premeditated' truck attack",
+            "description": "Four members of a family in Ontario were killed in what police believe was a deliberate hate crime.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-57390398",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/43D3/production/_118836371_5b6348a5-5cfc-4529-a1b8-6b02e37cfa47-1.png",
+            "publishedAt": "2021-06-07T20:52:21.8239572Z",
+            "content": "Four members of a Muslim family were killed in a \"premeditated\" truck attack on Sunday, Canadian police have said. \r\nA pickup truck mounted the curb and hit the victims in the city of London, Ontario… [+448 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Colonial Pipeline: US recovers most of ransom, justice department says",
+            "description": "The justice department says it has seized most of the $4.4m (£3.1m) paid to a cyber-criminal gang.",
+            "url": "http://www.bbc.co.uk/news/business-57394041",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AD7E/production/_118441444_colonial-tanks.jpg",
+            "publishedAt": "2021-06-07T20:22:17.6626948Z",
+            "content": "media captionHow did a cyber-attack lead to US petrol queues?\r\nThe US has recovered most of the $4.4m (£3.1m) ransom paid to a cyber-criminal gang responsible for taking the Colonial Pipeline offline… [+2286 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "What is Kamala Harris doing on her first foreign visit?",
+            "description": "Kamala Harris will meet Guatemalan and Mexican leaders to discuss immigration. What's on her agenda?",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-57387350",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8807/production/_118832843_gettyimages-1233310517.jpg",
+            "publishedAt": "2021-06-07T16:37:26.0895257Z",
+            "content": "image copyrightGetty Images\r\nimage captionVice-president Kamala Harris waves as she arrives in Guatemala\r\nOn her first-ever international diplomatic trip as vice-president, Kamala Harris is taking on… [+4503 chars]"
+        }
+    ]
+}

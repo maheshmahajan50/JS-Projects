@@ -1,0 +1,27 @@
+body{
+    background-color:#f0e992;
+}
+
+.imgBox{
+    background-image: url('320466.gif');
+    position: relative;
+    height: 500px;
+    width: 500px;
+    cursor: pointer;
+}
+
+.whiteBox{
+    display: inline-block;
+    background-color: white;
+    margin: 10px;
+    height: 510px;
+    width: 510px;
+}
+
+.hold{
+    border: solid red 4px;
+}
+
+.hide{
+    display: none;
+}
